@@ -8,12 +8,12 @@ This repository contains the final activity project for the Applied Computing co
 
 ## Installation
 ```bash
-git clone <repository-url>
+git clone https://github.com/RikuNav/FinalActivity.git
 cd FinalActivity
 ```
 
 ## Usage
-Add usage instructions here.
+Run the Jupyter Notebook `main.ipynb` to execute the analysis and see the results.
 
 ## Requirements
 - Python 3.x (or relevant language/tools)
